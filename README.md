@@ -10,3 +10,14 @@
 
 Запустите jar-файл:
 java -jar target/имя-файла.jar
+
+
+Запуск приложения через Maven или Gradle
+
+Для Maven:
+
+mvn spring-boot:run
+
+Для Gradle:
+
+gradle bootRun
